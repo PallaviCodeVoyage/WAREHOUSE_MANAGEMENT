@@ -1,4 +1,5 @@
-https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif
+![Alt Text](https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif)
+
 ### Warehouse Inventory Management System
 
 This project simulates a comprehensive warehouse inventory management system designed to reflect real-world operations. The system integrates multiple core functionalities that mirror actual inventory and logistics management processes:
